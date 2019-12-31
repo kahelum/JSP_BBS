@@ -70,7 +70,7 @@
 			<div class="container">
 				<h1>웹 사이트 소개</h1>
 				<p>이 웹 사이트는 부트스트랩으로 만든 JSP 웹 사이트입니다. 최소한의 간단한 로직만을 이용해서 개발했습니다.</p>
-				<p><a class="btn btn-primary btn-pull" href="#" role="button">자세히 알아보기</a></p>
+				<p><a class="btn btn-primary btn-pull" href="https://github.com/kahelum" role="button">Go to GitHub</a></p>
 			</div>
 		</div>
 	</div>
